@@ -1,0 +1,147 @@
+{
+  "data": [
+    {
+      "id": "I_kwDOD_NdSc5Lo7UH",
+      "closed": true,
+      "title": "Some files are missing in the repo",
+      "createdAt": "2022-06-13T07:26:09Z",
+      "url": "https://github.com/whomonugiri/ludo-board-game/issues/4",
+      "number": 4,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "ludo-board-game",
+        "url": "https://github.com/whomonugiri/ludo-board-game",
+        "owner": {
+          "login": "whomonugiri",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/58814922?u=1f086c55a1a8778fe964e96716baa436d07dec94&v=4",
+          "url": "https://github.com/whomonugiri"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOD9F5Ks5KYZPG",
+      "closed": true,
+      "title": "I am trying to develop image option feature in this library",
+      "createdAt": "2022-05-25T10:44:04Z",
+      "url": "https://github.com/effectussoftware/react-custom-roulette/issues/78",
+      "number": 78,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "react-custom-roulette",
+        "url": "https://github.com/effectussoftware/react-custom-roulette",
+        "owner": {
+          "login": "effectussoftware",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/63671619?v=4",
+          "url": "https://github.com/effectussoftware"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU4OTUxOTEyMTQ=",
+      "closed": true,
+      "title": "Mapbox invalid access token error",
+      "createdAt": "2021-05-19T09:09:49Z",
+      "url": "https://github.com/antvis/L7/issues/686",
+      "number": 686,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "L7",
+        "url": "https://github.com/antvis/L7",
+        "owner": {
+          "login": "antvis",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/19199542?v=4",
+          "url": "https://github.com/antvis"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU4OTUxMjA4NzM=",
+      "closed": true,
+      "title": "Mapbox Invalid access token error ",
+      "createdAt": "2021-05-19T07:59:50Z",
+      "url": "https://github.com/antvis/L7-react/issues/20",
+      "number": 20,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "L7-react",
+        "url": "https://github.com/antvis/L7-react",
+        "owner": {
+          "login": "antvis",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/19199542?v=4",
+          "url": "https://github.com/antvis"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU4NjA1OTU3MDc=",
+      "closed": true,
+      "title": "Not able to download PluralSight Course",
+      "createdAt": "2021-04-18T07:28:07Z",
+      "url": "https://github.com/ytdl-org/youtube-dl/issues/28791",
+      "number": 28791,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "youtube-dl",
+        "url": "https://github.com/ytdl-org/youtube-dl",
+        "owner": {
+          "login": "ytdl-org",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/48381040?v=4",
+          "url": "https://github.com/ytdl-org"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU5ODEyODc3MTk=",
+      "closed": true,
+      "title": "Better to use promises instead of callback ",
+      "createdAt": "2021-08-27T14:07:58Z",
+      "url": "https://github.com/iamanmolmehra/Turing-E-Commerce-Backend/issues/1",
+      "number": 1,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "Turing-E-Commerce-Backend",
+        "url": "https://github.com/iamanmolmehra/Turing-E-Commerce-Backend",
+        "owner": {
+          "login": "iamanmolmehra",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/70458652?u=0ce7d101873e8474eba883f2a8e9928b3a859a34&v=4",
+          "url": "https://github.com/iamanmolmehra"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU1NDQzMjU0NzQ=",
+      "closed": true,
+      "title": "MySQL 8 broken - Not able to login after installation ",
+      "createdAt": "2020-01-01T07:39:57Z",
+      "url": "https://github.com/openemr/openemr/issues/2870",
+      "number": 2870,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "openemr",
+        "url": "https://github.com/openemr/openemr",
+        "owner": {
+          "login": "openemr",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/283089?v=4",
+          "url": "https://github.com/openemr"
+        }
+      }
+    }
+  ],
+  "open": 0,
+  "closed": 7,
+  "totalCount": 7
+}
